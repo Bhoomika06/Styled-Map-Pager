@@ -10,9 +10,9 @@ Main thing is that this all is binding with pager slider. With sliding of pager 
 
 # Download
 
-###Using Gradle: under dependencies section:   
+# Using Gradle: under dependencies section:   
   ***Step 1.*** Add it in your root build.gradle at the end of repositories:
-```  
+```java
   allprojects {
 		 repositories {
 			...
@@ -22,13 +22,13 @@ Main thing is that this all is binding with pager slider. With sliding of pager 
  ```
  
  ***Step 2.*** Add the dependency
-	```
+```java
  dependencies {
 		compile 'com.github.Bhoomika06:Styled-Map-Pager:1.0.0'
 	}
 ```
 
-### or Using Maven:
+# or Using Maven:
     <dependency>
         <groupId>com.github.aarsy.googlemapsanimations</groupId>
         <artifactId>googlemapsanimations</artifactId>
@@ -37,14 +37,15 @@ Main thing is that this all is binding with pager slider. With sliding of pager 
     </dependency>
 
 # Usage
-```
+
+```java
 // map is GoogleMap object, latLng is the location on map from which ripple should start
 
 CustomMap customMap = new CustomMap(map, yourLatLngsArrayList, YourActivity.this);
 customMap.setCustomMapStyle(R.raw.mapstyle); // by this you can set styles to your map where mapstyle is .json file which is                                                 inside your assets folder
 ```
 
-```
+```java
 // for adding multiple markers inside your app
 customMap.addCustomPin();
 ```
