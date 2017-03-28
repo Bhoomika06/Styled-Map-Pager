@@ -7,6 +7,7 @@ It highlights selected location with unique marker pin. It give prominence to ce
 Main thing is that this all is binding with pager slider. With sliding of pager map locations are also moves.
 
 <img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490693370.png" alt text="Screenshot" width="240" height="427" />
+<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490698948.png" alt text="Screenshot" width="240" height="427" />
 
 # Usage
 ```
