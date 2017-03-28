@@ -8,6 +8,34 @@ Main thing is that this all is binding with pager slider. With sliding of pager 
 
 <img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490693370.png" alt text="Screenshot" width="240" height="427" />  <img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490698948.png" alt text="Screenshot" width="240" height="427" />
 
+# Download
+
+###Using Gradle: under dependencies section:   
+  ***Step 1.*** Add it in your root build.gradle at the end of repositories:
+```  
+  allprojects {
+		 repositories {
+			...
+			 maven { url 'https://jitpack.io' }
+		 }
+	 }
+ ```
+ 
+ ***Step 2.*** Add the dependency
+	```
+ dependencies {
+		compile 'com.github.Bhoomika06:Styled-Map-Pager:1.0.0'
+	}
+```
+
+### or Using Maven:
+    <dependency>
+        <groupId>com.github.aarsy.googlemapsanimations</groupId>
+        <artifactId>googlemapsanimations</artifactId>
+        <version>1.0.5</version>
+        <type>pom</type>
+    </dependency>
+
 # Usage
 ```
 // map is GoogleMap object, latLng is the location on map from which ripple should start
