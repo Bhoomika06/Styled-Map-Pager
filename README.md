@@ -6,8 +6,14 @@ It highlights selected location with unique marker pin. It give prominence to ce
 
 Main thing is that this all is binding with pager slider. With sliding of pager map locations are also moves.
 
-<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490693370.png" alt text="Screenshot" width="240" height="427" />	<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490698948.png" alt text="Screenshot" width="240" height="427" />	<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/map_pager.gif" alt text="Screenshot" width="240" height="427" />
+# Sample App
 
+<a href="https://play.google.com/store/apps/details?id=com.thebrownarrow.styledmapwithpager">
+  <img alt="Android app on Google Play"
+       src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
+
+<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490693370.png" alt text="Screenshot" width="240" height="427" />	<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/Screenshot_1490698948.png" alt text="Screenshot" width="240" height="427" />	<img src="https://github.com/Bhoomika06/Styled-Map-Pager/blob/master/map_pager.gif" alt text="Screenshot" width="240" height="427" />
 
 
 # Download
