@@ -63,6 +63,9 @@ customMap.addCustomPin();
  customMap.addSelectedCustomPin(position); // position is your pager's current selected pager item
 ```
 
+# Let us know
+We’d be really happy if you sent us links to your projects where you use our component. Just send an email to <a href="mailto:statusbuddy17@gmail.com">statusbuddy17@gmail.com</a> And do let us know if you have any questions or suggestion regarding the Styled Map Pager.
+
 # License
 
 ```
